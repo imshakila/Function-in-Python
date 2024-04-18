@@ -54,4 +54,4 @@ mytripler = myfunc(3)
 mydoubler = myfunc (2)
 print(mytripler(11))
 print(mydoubler(11))
-#===================================== use lambda fnction when an anonymouse function is required for a short period of time
+#===================================== use lambda function when an anonymouse function is required for a short period of time
